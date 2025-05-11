@@ -1,1 +1,9 @@
 @import "tailwindcss";
+@font-face {
+  font-family: Inter;
+  src: url(../fonts/Inter_18pt-Regular.ttf);
+}
+@font-face {
+  font-family: Sans;
+  src: url(../fonts/SourceSans3-Regular.ttf);
+}

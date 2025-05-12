@@ -7,3 +7,7 @@
   font-family: Sans;
   src: url(../fonts/SourceSans3-Regular.ttf);
 }
+.Container{
+  max-width: 80vw;
+  margin: auto;
+}

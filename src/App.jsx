@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Fresh from './components/Fresh'
 import Question from './components/question'
 import BoxItems from './components/BoxItems'
+import Ins from './components/in'
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
       <Fresh/>
       <BoxItems/>
       <Question/>
-      
+      <Ins/>
     </div>
   )
 }
